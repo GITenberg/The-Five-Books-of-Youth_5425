@@ -1,0 +1,24 @@
+_repo: The-Five-Books-of-Youth_5425
+creator:
+  author:
+    agent_name: Hillyer, Robert
+    alias: Hillyer, Robert Silliman
+    birthdate: 1895
+    deathdate: 1961
+    gutenberg_agent_id: '1795'
+    url: http://www.gutenberg.org/2009/agents/1795
+    wikipedia: http://en.wikipedia.org/wiki/Robert_Hillyer
+description: ''
+gutenberg_issued: '2004-04-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '5425'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'Poetry'
+title: The Five Books of Youth
+url: http://www.gutenberg.org/ebooks/5425
